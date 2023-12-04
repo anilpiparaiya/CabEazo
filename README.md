@@ -39,6 +39,7 @@ This project is licensed under the ISC License - see the LICENSE.md file for det
 ### Acknowledgements
 
 [User Authentication in Web Apps (Passport.js, Node, Express)](https://www.youtube.com/watch?v=F-sFp_AvHc8&t=3468s)
+
 [The Complete 2023 Web Development Bootcamp by Angela Yu](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
 
 [Git and GitHub for Beginners - Crash Course](https://www.youtube.com/watch?v=RGOj5yH7evk&t=2503s)
