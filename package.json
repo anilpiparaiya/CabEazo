@@ -7,7 +7,7 @@
     "bcryptjs": "^2.4.3",
     "body-parser": "^1.19.2",
     "connect-flash": "^0.1.1",
-    "dotenv": "^16.0.0",
+    "dotenv": "^16.3.1",
     "ejs": "^3.1.6",
     "email-validator": "^2.0.4",
     "express": "^4.17.3",
@@ -39,7 +39,6 @@
   "bugs": {
     "url": "https://github.com/anilpiparaiya/CabEazo/issues"
   },
-  
   "devDependencies": {
     "ejs-lint": "^1.2.1"
   }

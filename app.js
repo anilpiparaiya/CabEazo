@@ -7,7 +7,7 @@
 // import session from "express-session";
 // import bodyParser from "body-parser";
 // import uc from "upper-case"
-
+require('dotenv').config()
 const express = require("express");
 const path = require("path");
 const expressLayouts = require("express-ejs-layouts");
@@ -24,7 +24,9 @@ const app = express();
 
 require("./config/passport")(passport);
 
-const db = require("./config/keys").mongoURI;
+// const db = require("./config/keys").mongoURI;
+
+const db = process.env.DB_PASSWORD
 // Connect to MongoDB
 mongoose
   .connect(db, { useNewUrlParser: true, useUnifiedTopology: true })
