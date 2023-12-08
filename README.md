@@ -5,6 +5,7 @@ An efficient real time cab sharing platform for a journey using Node.js, and Mon
 
 ## Features
 - Searching and request-response functionality to find journey partner and driver for a journey
+[Demo of the Portal](https://github.com/anilpiparaiya/CabEazo/blob/main/demo/demo.md)
 
 ## Getting Started
 ### Prerequisites
