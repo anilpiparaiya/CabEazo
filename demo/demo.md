@@ -1,8 +1,8 @@
 <img src="./Welcome.png">
 
-<img src="./signup.png>
+<img src="./signup.png">
 
-<img src="./login.png>
+<img src="./login.png">
 
 <img src="./dashboard.png">
 
